@@ -1,0 +1,28 @@
+-->What does a SDET do?
+Test the software mostly websites like facebook, amazon etc.
+You be checking if all the links on a website work properly; all the dropdown text boxes etc.
+-->Why we don't want to test websites manually? Because it is very slow.
+--> How computers work?
+If we want a computer to solve a problem for us, we need two main things:
+1-we need to provide informations about that task;
+2-we need to provide instructions on how to use those informations.
+Because computers are very good at processing numbers and texts.
+we will be using those two forms to provide informations to the computer.
+Because, we need to store informations with instructions, we use different types of variables.
+--> Types of variables in Java:
+There are two main data types in Java: Primitives and non primitives.
+Primitives data types are basics, they are used to store informations in a computer program,
+they are very efficient in storing the data but sometimes it requires a lot of work to store 
+and process informations.
+Non primitives data types require more space and easier to work with.
+==>what are primitives data types?
+They are used to store informations in a computer program.
+--> Why i should learn about primitives data types?
+Because all others types are built using these primitives. They require minimum memory to store information.
+How can I use primitives data types?
+1)we need to specify the data type;
+2)we need to give a name to the box so we can get it back if we need informations in the future;
+3)we can= to store the information.
+
+.
+
